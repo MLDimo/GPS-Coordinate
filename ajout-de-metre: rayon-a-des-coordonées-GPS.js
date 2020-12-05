@@ -1,10 +1,10 @@
 
 
 
-var earth = 6378.137;
+var earth = 6378.137; /*radius of the earth*/
 var pi = Math.PI;
 var cos = Math.cos;
-var m = (1 / ((2 * pi / 360) * earth)) / 1000;
+var m = (1 / ((2 * pi / 360) * earth)) / 1000;  /* value of 1m u-in degree */
 
 
 
